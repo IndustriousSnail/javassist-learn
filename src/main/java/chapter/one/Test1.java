@@ -27,5 +27,11 @@ public class Test1 {
             pool.insertClassPath(new ClassClassPath(new Test1().getClass()));
         }
 
+        try{
+
+        }catch (Throwable e) {
+
+        }
+
     }
 }

@@ -1,4 +1,7 @@
-##### 这是把官方的文档给翻译了，顺便学习，一共10章，可以到
+##### 这是把官方的文档给翻译了，顺便学习，一共10章，可以到下面地址查看
+
+    https://github.com/IndustriousSnail/javassist-learn
+    
 
 ### 1. 获取类文件对象CtClass
 
