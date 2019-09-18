@@ -1,9 +1,6 @@
 package chapter.two;
 
-import javassist.ClassPool;
-import javassist.CtClass;
-import javassist.CtMethod;
-import javassist.NotFoundException;
+import javassist.*;
 
 public class Test {
 
@@ -16,6 +13,10 @@ public class Test {
             ClassPool pool = ClassPool.getDefault();
             CtClass cc = pool.get("Point");
             cc.setName("Pair");
+        }
+
+        {
+
         }
     }
 
