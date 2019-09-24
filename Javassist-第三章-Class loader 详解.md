@@ -1,7 +1,5 @@
-##### 这是把官方的文档给翻译了，顺便学习，一共10章，可以到下面地址查看，里面可能有翻译不准的地方，欢迎指正
+[toc]
 
-    https://github.com/IndustriousSnail/javassist-learn
-    
 如果一开始你就知道要修改哪个类，那么最简单的方式如下：
 
 - 1.调用**ClassPool.get()** 来获取一个**CtClass**对象。

@@ -1,7 +1,4 @@
-##### 这是把官方的文档给翻译了，顺便学习，一共10章，可以到下面地址查看，里面可能有翻译不准的地方，欢迎指正
-
-    https://github.com/IndustriousSnail/javassist-learn
-    
+[toc]
 
 ### 1. ClassPool简介
 
